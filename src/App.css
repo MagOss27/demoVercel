@@ -9,6 +9,11 @@
   margin: 0; /* Remove margens */
 }
 
+.App h1 {
+  font-size: 2.5em; /* Tamanho da fonte */
+  margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
 /* Estilo para o contêiner do tabuleiro */
 .board-container {
   display: flex;

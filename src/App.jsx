@@ -66,6 +66,7 @@ function calculateWinner(squares) {
 function App() {
   return (
     <div className="App">
+      <h1>Game Test Magnus</h1> {/* Título adicionado */}
       <Board />
     </div>
   );
